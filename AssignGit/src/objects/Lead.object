@@ -9,7 +9,6 @@
     <fields>
         <fullName>Follow_up__c</fullName>
         <label>Follow_up</label>
-        <required>true</required>
         <type>Date</type>
     </fields>
     <fields>

@@ -15,6 +15,19 @@
         <template>unfiled$public/SupportEscalatedCaseNotification</template>
     </alerts>
     <alerts>
+        <fullName>approved</fullName>
+        <protected>false</protected>
+        <recipients>
+            <recipient>shunalism@gmail.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>shunalismd@gmail.com</recipient>
+            <type>user</type>
+        </recipients>
+        <template>unfiled$public/Personal_template</template>
+    </alerts>
+    <alerts>
         <fullName>bigdeal</fullName>
         <ccEmails>Shunalism@gmail.com</ccEmails>
         <protected>false</protected>
